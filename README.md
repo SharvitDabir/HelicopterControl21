@@ -11,5 +11,5 @@ https://github.com/JuliaGeometry/GeometryBasics.jl
 - No blade flapping
 - No stabilizer
 - No horizontal/vertical fins
-- CoP = CoM
+- Centre of Pressure and Centre of Mass are same
 - No gyro effects
