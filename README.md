@@ -1,7 +1,7 @@
 # Helicopter_Model.ipynb
 - Implementation of Helicopter dynamics, control and simulation without wind.
 
-# __.ipynb
+# Helicopter_Model_Wind.ipynb
 - Implementation of Helicopter dynamics, control and simulation with wind and Kalman Filter.
 
 # OCRL_FINAL_PROJECT.pdf
