@@ -29,3 +29,10 @@ https://github.com/JuliaGeometry/GeometryBasics.jl
 - Control Strategies for aggressive maneuvers
 - Slung load dynamics implementation
 - Scale up to actual helicopters
+
+# Members
+- Vaibhav Shete (Vaibhav1097)
+- Advaith Sethuraman (advaiths12)
+- Rishi Narayan Chakraborty (rchakrjr)
+- Sharvit Dabir ()
+
