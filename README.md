@@ -1,12 +1,22 @@
-# HelicopterControl21
+# Visualizer
+https://github.com/RoboticExplorationLab/TrajOptPlots.jl
 
-  # Visualizer
+https://github.com/RoboticExplorationLab/RobotZoo.jl
 
-  # Dynamics
-  
-  # Controller
-  
-  # Estimation
-  
-  # Future Scope
+https://github.com/RoboticExplorationLab/RobotDynamics.jl
+
+https://github.com/JuliaGeometry/GeometryBasics.jl
+
+# Dynamics
+- No blade flapping
+- No stabilizer
+- No horizontal/vertical fins
+- CoP = CoM
+- No gyro effects
+
+# Controller
+
+# Estimation
+
+# Future Scope
 
