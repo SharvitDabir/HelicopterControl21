@@ -22,3 +22,10 @@ https://github.com/JuliaGeometry/GeometryBasics.jl
 - No horizontal/vertical fins
 - Centre of Pressure and Centre of Mass are same
 - No gyro effects
+
+
+# Future Work
+- Improved dynamics model
+- Control Strategies for aggressive maneuvers
+- Slung load dynamics implementation
+- Scale up to actual helicopters
