@@ -1,3 +1,12 @@
+# Helicopter_Model.ipynb
+- Implementation of Helicopter dynamics, control and simulation without wind.
+
+# __.ipynb
+- Implementation of Helicopter dynamics, control and simulation with wind and Kalman Filter.
+
+# OCRL_FINAL_PROJECT.pdf
+- Final report on Helicopter Optimal Control under wind.
+
 # Visualizer
 https://github.com/RoboticExplorationLab/TrajOptPlots.jl
 
