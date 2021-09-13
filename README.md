@@ -34,5 +34,5 @@ https://github.com/JuliaGeometry/GeometryBasics.jl
 - Vaibhav Shete (Vaibhav1097)
 - Advaith Sethuraman (advaiths12)
 - Rishi Narayan Chakraborty (rchakrjr)
-- Sharvit Dabir ()
+- Sharvit Dabir (SharvitDabir)
 
