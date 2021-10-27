@@ -22,10 +22,8 @@ https://github.com/JuliaGeometry/GeometryBasics.jl
 - No horizontal/vertical fins
 - Centre of Pressure and Centre of Mass are same
 
-Model taken from: Vladislav Gavrilets. “Dynamic Model for a Miniature Aerobatic Helicopter”. In: Handbook of Un-
-manned Aerial Vehicles. Ed. by Kimon P. Valavanis and
-George J. Vachtsevanos. Dordrecht: Springer Nether-
-lands, 2015, pp. 279–306. ISBN : 978-90-481-9707-1.
+Model taken from: Vladislav Gavrilets. “Dynamic Model for a Miniature Aerobatic Helicopter”. In: Handbook of Unmanned Aerial Vehicles. Ed. by Kimon P. Valavanis and
+George J. Vachtsevanos. Dordrecht: Springer Netherlands, 2015, pp. 279–306. ISBN : 978-90-481-9707-1.
 DOI : 10 . 1007 / 978 - 90 - 481 - 9707 - 1 54. URL : https :
 //doi.org/10.1007/978-90-481-9707-1 54.
 
