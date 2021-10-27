@@ -5,7 +5,7 @@
 - Implementation of Helicopter dynamics, control and simulation with wind and Kalman Filter.
 
 # OCRL_FINAL_REPORT.pdf
-- Final report on Helicopter Optimal Control under wind.
+- Final project report on Helicopter Optimal Control under wind, submitted for 16-745: _"Optimal Control and Reinforcement Learning, Fall 2020"_.
 
 # Visualizer
 https://github.com/RoboticExplorationLab/TrajOptPlots.jl
