@@ -21,7 +21,7 @@ https://github.com/JuliaGeometry/GeometryBasics.jl
 - No stabilizer
 - No horizontal/vertical fins
 - Centre of Pressure and Centre of Mass are same
-- No gyro effects
+
 
 
 # Future Work
