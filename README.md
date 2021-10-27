@@ -7,6 +7,11 @@
 # OCRL_FINAL_REPORT.pdf
 - Final project report on Helicopter Optimal Control under wind, submitted for 16-745: _"Optimal Control and Reinforcement Learning, Fall 2020"_.
 
+# Illustration:
+
+https://user-images.githubusercontent.com/73812796/139122500-dfbe2237-deb5-47c4-9574-34ed93b26e07.mp4
+
+
 # Visualizer
 https://github.com/RoboticExplorationLab/TrajOptPlots.jl
 
