@@ -4,7 +4,7 @@
 # Helicopter_Model_Wind.ipynb
 - Implementation of Helicopter dynamics, control and simulation with wind and Kalman Filter.
 
-# OCRL_FINAL_PROJECT.pdf
+# OCRL_FINAL_REPORT.pdf
 - Final report on Helicopter Optimal Control under wind.
 
 # Visualizer
