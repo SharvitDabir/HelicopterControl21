@@ -1,3 +1,4 @@
+This project was completed in a group of 4 students as part of a course: 16-745: _"Optimal Control and Reinforcement Learning, Spring 2021"_. We explored dynamics of a helicopter, numerical methods for accurate representation of reality, Quaternion mathematics and Group Theory and optimal control and estimation techniques. 
 # Helicopter_Model.ipynb
 - Implementation of Helicopter dynamics, control and simulation without wind.
 
