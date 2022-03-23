@@ -9,9 +9,11 @@ This project was completed in a group of 4 students as part of a course: 16-745:
 # OCRL_FINAL_REPORT.pdf
 - Final project report on Helicopter Optimal Control under wind, submitted for 16-745: _"Optimal Control and Reinforcement Learning, Spring 2021"_.
 
-# Illustration:
+# Illustrations:
 
 https://user-images.githubusercontent.com/73812796/139122500-dfbe2237-deb5-47c4-9574-34ed93b26e07.mp4
+
+<img width="622" alt="github_heli" src="https://user-images.githubusercontent.com/73812796/159797972-dbabe67a-24ca-459b-9988-fd3a6c0e440f.PNG">
 
 
 # Visualizer
