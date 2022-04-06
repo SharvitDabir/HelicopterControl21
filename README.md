@@ -1,5 +1,5 @@
 # HelicopterControl21: 
-This project was completed in a group of 4 students as part of a course: 16-745: _"Optimal Control and Reinforcement Learning, Spring 2021"_. We explored dynamics of a helicopter, numerical methods for accurate representation of reality, Quaternion mathematics, Group Theory, optimal control and estimation techniques. 
+This project was completed in a group of 4 students as part of a course: 16-745: _"Optimal Control and Reinforcement Learning, Spring 2021"_. We explored dynamics of a helicopter, numerical methods for accurate representation of reality, Quaternion mathematics, Group Theory, Disturbance Observer Based Robust Control, Optimal Control and Estimation techniques (Kalman Filtering). 
 # Helicopter_DisturbanceObserver_OptimalControl.ipynb
 - Implementation of Disturbance Observer Based Control against wind disturbance.
 
