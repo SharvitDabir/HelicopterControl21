@@ -1,10 +1,13 @@
 # HelicopterControl21: 
 This project was completed in a group of 4 students as part of a course: 16-745: _"Optimal Control and Reinforcement Learning, Spring 2021"_. We explored dynamics of a helicopter, numerical methods for accurate representation of reality, Quaternion mathematics, Group Theory, optimal control and estimation techniques. 
+# Helicopter_DisturbanceObserver_OptimalControl.ipynb
+- Implementation of Disturbance Observer Based Control against wind disturbance.
+- 
 # Helicopter_Model.ipynb
 - Implementation of Helicopter dynamics, control and simulation without wind.
 
 # Helicopter_Model_Wind.ipynb
-- Implementation of Helicopter dynamics, control and simulation with wind and Kalman Filter.
+- (TODO: Repeat DOb architecture for Straight Line Trajectory!)
 
 # OCRL_FINAL_REPORT.pdf
 - Final project report on Helicopter Optimal Control under wind, submitted for 16-745: _"Optimal Control and Reinforcement Learning, Spring 2021"_.
